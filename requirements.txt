@@ -1,0 +1,4 @@
+chromadb
+typer
+rich
+sentence-transformers
