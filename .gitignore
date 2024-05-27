@@ -1,6 +1,8 @@
 # project
 wikibooks.sqlite
 books/embedding/
+apikey
+*.pdf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -1,4 +1,7 @@
 chromadb
 typer
 rich
-sentence-transformers
+langchain
+langchain-community
+langchain-openai
+langchain-chroma 
